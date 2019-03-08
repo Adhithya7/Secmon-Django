@@ -9,3 +9,5 @@ pycparser==2.18
 python-dateutil==2.7.5
 pytz==2018.4
 six==1.11.0
+Django>=2.0,<3.0
+psycopg2>=2.7,<3.0
